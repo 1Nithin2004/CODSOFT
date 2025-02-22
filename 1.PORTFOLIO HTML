@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Nithin Kumar S</h1>
+
+        <p>Web Developer | Designer | Programmer</p>
+    </header>
+
+    <section id="about">
+        <img src="photo.jpeg" alt="Nithin Image">
+        <h2>About Me</h2>
+        <p>Enthusiastic pre-final year Computer Science student from SAVEETHA SCHOOL OF ENGINEERING (SSE) with a strong foundation in programming, algorithms, and software development. Actively seeking internship and placement opportunities to apply my technical skills and contribute to impactful projects. Experienced in Java, Python, and database management, with a passion for problem-solving and innovation. Pursuing hands-on experience to enhance my learning and professional growth. Dedicated to building a career in technology and software engineering.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>JavaScript</li>
+            <li>Machine Learning</li>
+            <li>Python</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <img src="project.jpg" alt="Project image">
+            <h3>
+Detection of Rheumatoid Arthritis Using Machine Learning Algorithms</h3>
+            <p>Comparative impact of Rheumatoid Arthritis Diagnosis using K-Nearest Neighbor(KNN) and comparison with Support Vector Machine(SVM) for Enhanced Accuracy.</p>
+        </div>
+    </section>
+
+<section id="certifications">
+    <h2>Certifications</h2>
+    <ul>
+        <li>Computer Networking Basics for Desktop Support Technicians-Udemy</li>
+        <li>
+Introduction to Machine Learning-NPTEL</li>
+        <li>Blockchain and its Applications-NPTEL</li>
+        <li>JavaScript Fundamentals to Advanced: Full Stack Development-Udemy</li>
+    </ul>
+</section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <p><a href="Nithin Kumar Resume.pdf" download>Download My Resume (PDF)</a></p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: nithinsiva920@gmail.com</p>
+        <p>Phone: 7904295646</p>
+<p><a href="https://www.linkedin.com/feed/"> To connect in Linkedin tap here </a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Name. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
